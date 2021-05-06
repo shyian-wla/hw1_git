@@ -1,6 +1,3 @@
-body {
-    height: 100%;
-}
 
 .container {
     margin: 0 auto;
@@ -20,7 +17,7 @@ body {
 }
 
 .menu-item_link:hover {
-    color: burlywood;
+    color: pink;
 }
 
 .main-title {
@@ -36,4 +33,14 @@ body {
     color: aliceblue;
     font-size: 18px;
     text-align: center;
+}
+
+.first-article {
+    background-color: #00cc00;
+    border: 2px solid #008000;
+    padding: 20px;
+}
+
+.first-article__heading {
+    margin: 5px;
 }
